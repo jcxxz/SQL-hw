@@ -4,7 +4,8 @@ const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'Weld1234.',
-    database: 'tracker',
+    database: 'tracker_db',
 })
+
 
 module.exports = db;
