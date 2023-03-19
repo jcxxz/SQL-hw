@@ -2,8 +2,7 @@
 
 ## Your Task
 
-The task for this homework assignment was to create a database with SQL and node js and  express. unfortunately I was unable to finish in enough time, I had a few personal obligations that got in the way and commanded attention for alot of time.
-
+The task for this homework assignment was to create a database with SQL and node js and  express. 
 ## User Story
 
 ```md
@@ -36,5 +35,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Mock-Up
 
-![Screenshot (36)](https://user-images.githubusercontent.com/117127694/222057480-4e70fc0e-61d7-4190-9a45-99d1d619a1fc.png)
+https://drive.google.com/file/d/11FhhoZNhvcQsggVMYUfrYHscrSsJk6sY/view
+
+here is a video of the product working
 
